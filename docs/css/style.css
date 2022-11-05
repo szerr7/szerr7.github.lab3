@@ -54,7 +54,7 @@ padding: 100px ;
 
 
 
-img{
+img.logo{
 
     position: fixed;
 
@@ -193,7 +193,13 @@ h5 {
      padding:0 10px; 
  }
 
- 
+ .valid{
+
+    text-align: left;
+
+ }
+
+
 
 
 

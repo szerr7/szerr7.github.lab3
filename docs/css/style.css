@@ -1,0 +1,196 @@
+
+* { 
+
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box ;
+
+
+}
+
+
+
+.box-one {
+display: inline;
+padding: 100px ;
+        
+    
+}
+
+.box-two{
+
+    background-color: #374877; 
+
+    padding: 90px;
+    
+}
+
+
+
+
+
+
+.portal{
+
+    color: black;
+   float: right;
+
+   
+
+   
+
+
+}
+
+.portal{
+    text-decoration: none;
+}
+
+
+
+.help{
+    float: left;
+}
+
+
+
+img{
+
+    position: fixed;
+
+          height: 45px;
+
+          width: 50px;
+          
+          top: 0 ;
+          left: 0;
+
+         
+
+}
+
+.logo{
+          display: inline;
+}
+
+
+
+
+
+.welcome{
+          text-align: center;
+
+          color: #ffffff;
+
+          font-weight: normal;
+
+}
+
+div.box-three{
+   
+    border: 0px solid black;
+    float: left;
+    width: 50%;
+
+    padding-top: 7vh;
+    padding-left: 5vh;
+
+
+    
+    
+    
+        }
+
+    div.box-four{
+
+        border: 0px solid black;
+    float: right;
+    width: 50%;
+    padding-top: 7vh;
+    padding-left: 5vh;
+        
+       
+
+}
+
+#log-button{
+    margin-top: 1%;
+    color: white;
+    background-color: black;
+    width: 40%;
+    height: 40px;
+    border-radius: 0px;
+
+
+}
+#submit-button{
+    color: white;
+    background-color: black;
+    width: 25%;
+    border-radius: 0px;
+
+}
+
+#login-email{
+    width: 50%;
+}
+#password{
+    width: 50%;
+   
+}
+
+#forget-password{
+    float: right;
+}
+
+#azure{
+    color: blue;
+    background-color: whitesmoke;
+    width: 50%;
+    border-radius: 10px;
+}
+
+h5{
+
+    width: 100%; 
+   text-align: center; 
+   border-bottom: 0px solid #000; 
+   line-height: 0.1em;
+   margin: 10px 0 20px; 
+}
+
+h5 span {
+    background:#fff; 
+    padding:0 10px; 
+}
+
+
+   
+footer{
+    width:100%;
+    padding-left: 80%;
+    margin-top: 45%;
+    background-color: #e6e6e6;
+    
+    
+}
+h5 {
+
+    padding-top: 10%;
+    width: 65%; 
+    text-align: center; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+ } 
+ 
+ h5 span { 
+     background:#fff; 
+     padding:0 10px; 
+ }
+
+
+
+
+
+

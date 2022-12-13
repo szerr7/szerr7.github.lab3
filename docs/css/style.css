@@ -7,6 +7,10 @@
 
 
 }
+footer{
+    position: fixed;
+    bottom: 0;
+}
 
 
 
@@ -15,6 +19,10 @@ display: inline;
 padding: 100px ;
         
     
+}
+.footer{
+
+    position: relative;
 }
 
 .box-two{
@@ -71,6 +79,7 @@ img.logo{
 
 .logo{
           display: inline;
+          position:fixed;
 }
 
 
@@ -103,7 +112,7 @@ div.box-three{
 
     div.box-four{
 
-        border: 0px solid black;
+    border: 0px solid black;
     float: right;
     width: 50%;
     padding-top: 7vh;
